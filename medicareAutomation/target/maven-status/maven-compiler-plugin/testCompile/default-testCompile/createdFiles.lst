@@ -1,0 +1,6 @@
+UserValidation\Login.class
+UserValidation\DriverSettings.class
+UserValidation\signUp.class
+UserValidation\AddProducts.class
+NegativeScenario\LoginIncorrectly.class
+UserValidation\AddTwoProducts.class
